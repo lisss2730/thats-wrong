@@ -1,8 +1,8 @@
-pon = inpt('вебери себе name 1-апельсин, 2-нагетс')
+pon = int(input('выбери себе name 1-апельсин, 2-нагетс'))
 
-if inpt = '1'
-  prnt(харош)
-  prin'ты можешь присоединится в наш gachi club'
-els
-  prunt(ты забанен)
+if pon == '1':
+  print('харош')
+  print('ты можешь присоединится в наш gachi club')
+else:
+  print('ты забанен')
   
